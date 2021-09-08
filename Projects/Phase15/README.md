@@ -1,6 +1,6 @@
 <div dir="rtl" align='right'>
 
-**تست در اندروید (اسپرسو، ربوالکتریک، )**
+**1- تست در اندروید (اسپرسو، ربوالکتریک، UiTest)**
 
 انسانها مستعد اشتباه هستند و این ماهیت انسان ها باعث ایجاد باگ در نرم افزار میشود.پس از مدتی در توسعه نرم افزار متوجه نیاز به تست برنامه را حس میکنید. این نیاز زمانی بیشتر خود را نشان میدهد که در حال توسعه یک نرم افزار باشید و به صورت مداوم نیاز به تغییر کد های گذشته و افزودن قابلیت های جدید به پروژه باشد.
 
@@ -31,9 +31,7 @@ https://www.tutorialspoint.com/espresso_testing/espresso_testing_introduction.ht
 
 http://robolectric.org
 
-**کاستوم ویو فصل ۳۰**
-
-Custom Views
+**2- Custom Views**
 
 احتمالا بارها پیش اومده که در برنامهای که مینویسید به المانی(یا کامپوننت) نیاز پیدا کنید که در میان ابزارها و Viewهای خود اندروید وجود نداشته باشه. در این مواقع به احتمال بسیار بسیار زیاد میتونید چیزی که میخواید رو در میان هزاران کتابخانه اوپن سورسی که در اینترنت موجود هست پیدا کنید.
 
@@ -48,7 +46,7 @@ www.vogella.com/tutorials/AndroidCustomViews/article.h
 https://www.raywenderlich.com/142-android-custom-view-tutorial
 
 
-**Animation**
+**3- Animation**
 
 انیمیشنها راهی عالی برای بهبود تجربهی کاربری در نرمافزار هستند. از آنها جهت نمایش تغییرات و جلب توجه کاربر و ساخت صفحات زیبا استفاده میشود. شما میتوانید از انیمیشنها برای جلب توجه عناصر مهم طرحتان استفاده کنید، زیرا حرکات موثر در طراحی باعث میشود برنامهی شما پر زرق و برق به نظر برسد. برای مثال زمانی که یک لیست دارید و یک آیتم از آن تغییری میکند، متحرک سازی آن تغییر میتواند به کاربر برای درک بهتر آنچه اتفاق افتاده است کمک کند. یا وقتی تغییراتی در جابجایی از یک صفحه به صفحه دیگری دارید، انیمیشنها میتوانند به کاربر کمک کند که اشیاء ثابت و اشیایی که دچار تغییر شدهاند را بهتر درک کند.
 
@@ -76,7 +74,7 @@ https://proandroiddev.com/complex-ui-animation-on-android-8f7a46f4aec4
 
 
 
-**Firebase**
+**4-Firebase**
 
 
 
@@ -96,11 +94,11 @@ firebase یک ارتباط و تعامل بین داده های شما و کار
 
 
 
-
+</div>
 
 https://www.raywenderlich.com/5114-firebase-tutorial-for-android-getting-started
 
-https://blog.faradars.org/firebase-beginners-guide/
+https://blog.faradars.org/firebase-beginners-guide
 
 [Getting started with Firebase on Android (2020) - Firecasts
 ](https://www.youtube.com/watch?v=dRYnm_k3w1w)
@@ -112,4 +110,3 @@ https://blog.faradars.org/firebase-beginners-guide/
 
 
 
-</div>
