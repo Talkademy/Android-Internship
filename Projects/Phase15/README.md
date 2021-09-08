@@ -1,6 +1,6 @@
 <div dir="rtl" align='right'>
 
-تست در اندروید (اسپرسو، ربوالکتریک، )
+**تست در اندروید (اسپرسو، ربوالکتریک، )**
 
 انسانها مستعد اشتباه هستند و این ماهیت انسان ها باعث ایجاد باگ در نرم افزار میشود.پس از مدتی در توسعه نرم افزار متوجه نیاز به تست برنامه را حس میکنید. این نیاز زمانی بیشتر خود را نشان میدهد که در حال توسعه یک نرم افزار باشید و به صورت مداوم نیاز به تغییر کد های گذشته و افزودن قابلیت های جدید به پروژه باشد.
 
@@ -10,23 +10,28 @@
 
 - تست ابزاری | Instrumentation Testing
 
-تست واحد | Unit Tests :
+**تست واحد | Unit Tests :**
 
 آزمایش کردن تمامی متد ها، بخش های (واحد های ) برنامه . به صورتی که پارامتر X را به یک واحد میدهیم و باید خروجی Y را از آن دریافت کنیم در غیره این صورت برنامه با خطا مواجه شده است.این نوع تست به صورت محلی بر روی JVM اجرا میشود و نیازی به اجرا بر روی دستگاه یا شبیه ساز اندرویدی نیست.
 
 در فازهای ابتدایی مفصل درمورد این نوع تست صحبت کرده ایم
 
-تست ابزاری | Instrumentation Testing :
+**تست ابزاری | Instrumentation Testing :**
 
 ما در این فاز بر روی این نوع از تست تمرکز میکنیم. Espresso یک Frameworks جهت تست خودکار Ui اپلیکیشن های اندرویدی است که توسط گوگل در حال توسعه میباشد.
 
 این فریمورک برای تست رابط کاربری (UI test framework) است که با استفاده از آن می توانید به صورت اتوماتیک تمامی بخش های برنامه را بدون لمس گوشی خودتان یا Emulator تست کنید ! لازم نیست ساعت ها وقت برای تست کردن اپلیکیشن خود قرار دهید با استفاده از Espresso به راحتی تست برنامه خود را اتوماتیک کنید
 
-با مطالعه لینک زیر ، با نحوه افزودن Espresso به پروژه و همینطور نحوه پیاده سازی این فریمورک را فرا می گیرید. https://www.vogella.com/tutorials/AndroidTestingEspresso/article.html https://www.tutorialspoint.com/espresso_testing/espresso_testing_introduction.htm
+با مطالعه لینک زیر ، با نحوه افزودن Espresso به پروژه و همینطور نحوه پیاده سازی این فریمورک را فرا می گیرید. 
 
-از جمله Frameworks های مشابه میتوان به Robolectric نیز اشاره کرد که میتوانید از لینک زیر آن را مطالعه کنید: http://robolectric.org/
+https://www.vogella.com/tutorials/AndroidTestingEspresso/article.html 
+https://www.tutorialspoint.com/espresso_testing/espresso_testing_introduction.htm
 
-کاستوم ویو فصل ۳۰
+از جمله Frameworks های مشابه میتوان به [Robolectric](http://robolectric.org/) نیز اشاره کرد که میتوانید از لینک زیر آن را مطالعه کنید: 
+
+http://robolectric.org
+
+**کاستوم ویو فصل ۳۰**
 
 Custom Views
 
@@ -36,9 +41,14 @@ Custom Views
 
 برای آشنایی کامل با ویو های سفارشی ، فصل 31 کتاب را مطالعه نمایید.
 
-همچنین میتوانید برای اطلاعات بیشتر لینک های زیر را مطالعه کنید: tmlhttps://www.vogella.com/tutorials/AndroidCustomViews/article.h tutorial-view-custom-android-https://www.raywenderlich.com/142
+همچنین میتوانید برای اطلاعات بیشتر لینک های زیر را مطالعه کنید:
 
-Animation
+www.vogella.com/tutorials/AndroidCustomViews/article.h
+
+https://www.raywenderlich.com/142-android-custom-view-tutorial
+
+
+**Animation**
 
 انیمیشنها راهی عالی برای بهبود تجربهی کاربری در نرمافزار هستند. از آنها جهت نمایش تغییرات و جلب توجه کاربر و ساخت صفحات زیبا استفاده میشود. شما میتوانید از انیمیشنها برای جلب توجه عناصر مهم طرحتان استفاده کنید، زیرا حرکات موثر در طراحی باعث میشود برنامهی شما پر زرق و برق به نظر برسد. برای مثال زمانی که یک لیست دارید و یک آیتم از آن تغییری میکند، متحرک سازی آن تغییر میتواند به کاربر برای درک بهتر آنچه اتفاق افتاده است کمک کند. یا وقتی تغییراتی در جابجایی از یک صفحه به صفحه دیگری دارید، انیمیشنها میتوانند به کاربر کمک کند که اشیاء ثابت و اشیایی که دچار تغییر شدهاند را بهتر درک کند.
 
@@ -52,9 +62,54 @@ Animation
 
 و ...
 
-Android امکانات بسیاری را برای متحرک سازی اشیا UI فراهم میکند. و یکی از قویترین این ابزار جهت ساخت انیمیشن در اندروید که در سال 2018 توسط شرکت گوگل معرفی شده MotionLayout است.
 
-موشن لایوت ترکیبی از ویژگیهای فریم
+
+Android امکانات بسیاری را برای متحرک سازی اشیا UI فراهم می‌کند. و یکی از قوی‌ترین این ابزار جهت ساخت انیمیشن در اندروید که در سال 2018 توسط شرکت گوگل معرفی شده MotionLayout است. موشن‌ لایوت ترکیبی از ویژگی‌های [فریم‌ ورک انیمیشن](https://developer.android.com/guide/topics/graphics/prop-animation) ، [TransitionManager](https://developer.android.com/reference/android/transition/TransitionManager) و [CoordinatorLayout](https://7learn.com/tutorials/android-constraintlayout-toturial) را ارائه می‌دهد.
+
+برای آشنایی با مبحث انیمیشن ، فصل 32 کتاب را مطالعه نمایید.همینطور برای مطالعه بیشتر به لینک های زیر سر بزنید:
+
+https://www.tutorialspoint.com/android/android_animations.htm
+
+https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50
+
+https://proandroiddev.com/complex-ui-animation-on-android-8f7a46f4aec4
+
+
+
+**Firebase**
+
+
+
+firebase یک ارتباط و تعامل بین داده های شما و کاربراتون برقرار میکنه.در واقع فایربیس امکاناتی از قبیل توسعه اپلیکیشن موبایل ٬ آنالیز کابران ٬ مدیریت خطاها و ذخیره سازی داده ها رو برای توسعه دهنده فراهم می کنه. یکی از مزیت های فایربیس پشتیبانی کامل از اندروید ٬ IOS ٬ تکنولوژی های تحت وب و ... هست. فایر بیس قابلیت های زیادی داره از جمله:
+
+- دیتابیس Realtime 
+
+- ذخیره سازی در فضای ابری 
+
+- آنالیز اپلیکیشن 
+
+- آنالیز کاربران 
+
+- استفاده از تمام سرویس های گوگل 
+
+و خیلی از امکانات دیگه که واقعا قابل ستایشه.
+
+
+
+
+
+https://www.raywenderlich.com/5114-firebase-tutorial-for-android-getting-started
+
+https://blog.faradars.org/firebase-beginners-guide/
+
+[Getting started with Firebase on Android (2020) - Firecasts
+](https://www.youtube.com/watch?v=dRYnm_k3w1w)
+
+
+[Firebase Tutorial for Android App Development (2021)
+](https://www.youtube.com/watch?v=SV9pJqR41KI)
+
+
 
 
 </div>
