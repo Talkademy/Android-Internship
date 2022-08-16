@@ -15,7 +15,7 @@ Click on "Raw" button on right side of this page to see original markdown then c
   نمایش Toast با متن "Hello Talkademy" با کلیک بروی Button
 
 - [ ] یک بار Layout زیر را با LinearLayout و سپس یک بار ReleativeLayout پیاده‌ساربی کنید   
-- [ ] تکمیل پروژه ماشین حساب
+- [ ] پروژه ی ماشین حساب  : ابتدا ظاهر یک ماشین حساب را با LinearLayout بزنید سپس با RelativeLayout بزنید و پس از آن سراغ لاجیک این ماشین حساب بروید.
 
 ![alt text](./images/s1.png)
 
