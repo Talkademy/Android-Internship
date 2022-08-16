@@ -6,7 +6,7 @@
 
 در ادامه ی مبحث با مبحث androidx (یا در نسخه های قدیمی support) باید آشنا بشوید. AndroidX نسل جدید و بهینه شده‌ی پکیج کتابخانه‌های Support اندروید است. تیم توسعه اندروید در گذشته، کتابخانه‌های ضروری موردنیاز جهت ساخت و توسعه برنامه‌های اندرویدی را در قالب لایبرری‌های Support منتشر می‌کرد.برای یادگیری بیشتر به لینک زیر مراجعه فرماید:
 
-https://evanamargain.com/mobile/what-is-android-x
+[https://evanamargain.com/mobile/what-is-android-x](https://evanapuig.com/what-is-androidx/)
 
 به خاطر داشته باشید که در اندروید ۲ نوع فرگمنت وجود دارد
 
