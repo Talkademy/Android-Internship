@@ -7,16 +7,13 @@ Click on "Raw" button on right side of this page to see original markdown then c
 - [ ] Install Git
 - [ ] setup Emulator
 
-
-2- 
-- [ ] ساخت پروژه تستی جدید در اندروید استادیو    
-- [ ] قرار دادن یک دکمه در وسط صفحه با متن لخواه و 
 <div dir="rtl" align='right'>
-  نمایش Toast با متن "Hello Talkademy" با کلیک بروی Button
+2- 
+- [ ]   ساخت پروژه تستی جدید در اندروید استادیو    
+- [ ]   قرار دادن یک دکمه در وسط صفحه با متن لخواه و نمایش Toast با متن "Hello Talkademy" با کلیک بروی Button
 
-- [ ] یک بار Layout زیر را با LinearLayout و سپس یک بار ReleativeLayout پیاده‌ساربی کنید   
-- [ ] پروژه ی ماشین حساب  : ابتدا ظاهر یک ماشین حساب را با LinearLayout بزنید سپس با RelativeLayout بزنید و پس از آن سراغ لاجیک این ماشین حساب بروید.
-
+- [ ]   یک بار Layout زیر را با LinearLayout و سپس یک بار ReleativeLayout پیاده‌سازی کنید و پس از آن سراغ لاجیک این ماشین حساب بروید.    
+  
 ![alt text](./images/s1.png)
 
 
@@ -24,17 +21,17 @@ Click on "Raw" button on right side of this page to see original markdown then c
 
 
 
-- [ ] آشنایی با مفهوم معماری و کاربرد آن     &nbsp;&nbsp;&nbsp;&nbsp; 
+- [ ]   آشنایی با مفهوم معماری و کاربرد آن      &nbsp;&nbsp;&nbsp;&nbsp; 
 
-- [ ] آشنایی با معمارهای موجود و تفاوت آنها 
+- [ ]   آشنایی با معماری های موجود و تفاوت آنها 
 
-- [ ] شناخت  و کاربرد پوشه res  در پروژه  
+- [ ]   شناخت  و کاربرد پوشه res  در پروژه  
 
-- [ ] کاربرد پوشه هایی مختلف در res مانند anim,value,drawable 
+- [ ]   کاربرد پوشه های مختلف در res مانند anim,value,drawable 
 
-- [ ] افزودن یک ریسورس به این پوشه برای صفحه نمایش های متفاوت و نحوه استفاده از آن 
+- [ ]   افزودن یک ریسورس به این پوشه برای صفحه نمایش های متفاوت و نحوه استفاده از آن 
 
-- [ ] کاربرد و تاثیرات Minimum SDK version - Target SDK version در پروژه
+- [ ]   کاربرد و تاثیرات Minimum SDK version - Target SDK version در پروژه    `[FILL HERE ]`
 </div>
 
 
