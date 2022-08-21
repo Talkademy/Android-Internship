@@ -3,13 +3,18 @@ Click on "Raw" button on right side of this page to see original markdown then c
 
 <div dir="rtl" align='right'>
  
-- برای ذخیره اطلاعات در اندروید ، از چه روش هایی میتوانیم استفاده کنیم؟ 
+- برای ذخیره اطلاعات در اندروید ، از چه روش هایی میتوانیم استفاده کنیم؟   
+ 
+ `[FILL HERE ]`
 
-- چه زمانی از SharedPreferences برای ذخیره داده ها استفاده میکنیم؟ 
+- چه زمانی از SharedPreferences برای ذخیره داده ها استفاده میکنیم؟
+  `[FILL HERE ]`
 
-- چه نوع داده هایی را میتوانیم با SharedPreferences ذخیرع کنیم؟ 
+- چه نوع داده هایی را میتوانیم با SharedPreferences ذخیرع کنیم؟
+  `[FILL HERE ]`
 
-- چه زمانی برای ذخیره اطلاعات از SQLite استفاده می کنیم؟ 
+- چه زمانی برای ذخیره اطلاعات از SQLite استفاده می کنیم؟
+  `[FILL HERE ]`
 
 - پروژه ای بنویسد که : 
 
