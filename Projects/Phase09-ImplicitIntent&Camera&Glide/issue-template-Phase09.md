@@ -3,9 +3,12 @@ Click on "Raw" button on right side of this page to see original markdown then c
 
 <div dir="rtl" align='right'>
 
-- انواع Intent ها و کاربرد هرکدام را توضیح دهید
+- انواع Intent ها و کاربرد هرکدام را توضیح دهید.
+    `[FILL HERE ]`
 
-- طریقه استفاده از تم ها و استایل ها را تمرین کنید 
+- طریقه استفاده از تم ها و استایل ها را تمرین کنید
+    
+    `[FILL HERE]`
 
 - پروژه ای بنویسید که 
 
